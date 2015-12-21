@@ -135,6 +135,7 @@ class PrimaryPage(tk.Frame):
     @staticmethod
     def dumb():
         print(">DEBUG: DumbFunction for PrimaryPage used")
+        print("V was here g")
 
 
 class ClockIn(tk.Frame):
@@ -174,7 +175,7 @@ class ClockIn(tk.Frame):
 
 class RoomAvailability(tk.Frame):
     """
-    Displays the 5 rooms based on availability v was herefdfgsadfsadfafdasgargbrvb
+    Displays the 5 rooms based on availability v was herefdfg
     """
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
