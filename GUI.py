@@ -135,7 +135,7 @@ class PrimaryPage(tk.Frame):
     @staticmethod
     def dumb():
         print(">DEBUG: DumbFunction for PrimaryPage used")
-        print("V was here")
+        print("V was here g")
 
 
 class ClockIn(tk.Frame):
